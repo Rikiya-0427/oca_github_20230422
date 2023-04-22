@@ -1,2 +1,2 @@
-# oca_github-_20230422
+# oca_github_20230422
 （2023/4/22）GitHub演習用です。
